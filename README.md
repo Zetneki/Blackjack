@@ -1,6 +1,6 @@
 # Blackjack
 
-This is a simple Blackjack game written in C during my first year of university. It follows standard Blackjack rules, allowing the player to hit, stand, and compete against the dealer.
+This is a simple Blackjack game written in C during my first semester of university. It follows standard Blackjack rules, allowing the player to hit, stand, and compete against the dealer.
 
 ## Features
 - Command-line interface
